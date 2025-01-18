@@ -13,3 +13,6 @@ This project implements a custom CNN for image classification, trained using PyT
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+git add .
+git commit -m "Initial commit for AWS ML project"
+git push origin main
